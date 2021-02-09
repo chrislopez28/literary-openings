@@ -1,0 +1,7 @@
+.Frame {
+    /* border: 3px solid goldenrod; */
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    overflow-y: scroll;
+}
