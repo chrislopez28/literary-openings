@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "opening": "My father's family name being Pirrip, and my christian name Phillip, my infant tongue could make of both names nothing longer or more explicit than Pip."
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "opening": "There was no possibility of taking a walk that day."
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "opening": "Call me Ishmael."
+    },
+    {
+        "title": "Paradise Lost",
+        "author": "John Milton",
+        "opening": "This First Book proposes, first in brief, the whole subject--Man's disobedience, and the loss thereupon of Paradise, wherein he was placed: then touches the prime cause of his fall--the Serpent, or rather Satan in the Serpent; who, revolting from God, and drawing to his side many legions of Angeles, was, by the command of God, driven out of Heaven, with all his crew, into the great Deep."
+    },
+    {
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "opening": "Sir Walter Elliot, of Kellynch-hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limiting remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs, changed naturally into pity and contempt, as he turned over the almost endless creations of the last century - and there, if every other leaf were powerless, he could read his own history with an interest which never failed - this was the page at which the favourite volume always opened: ELLIOT of KELLYNCH-HALL."
+    },
+    {
+        "title": "Pierre Menard, Autor del Quijote",
+        "author": "Jorge Luis Borges",
+        "opening": "La obra visible que ha dejado este novelista es de fácil y breve enumeración."
+    },
+    {
+        "title": "Pride & Prejudice",
+        "author": "Jane Austen",
+        "opening": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+    },
+    {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "opening": "I was born in the year 1632, in the city of York, of a good family, though not of that country, my father being a foreigner of Bremen, who settled first at Hull."
+    },
+    {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "opening": "The family of Dashwood had been long settled in Sussex."
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "opening": "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε, πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι, Διὸς δ᾽ ἐτελείετο βουλή, ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς."
+    },
+    {
+        "title": "The Pilgrim's Progress",
+        "author": "John Bunyan",
+        "opening": "As I walked through the wilderness of this world, I lighted on a certain place where was a den, and laid me down in that place to sleep; and as I slept, I dreamed a dream."
+    },
+    {
+        "title": "The Rime of the Ancient Mariner",
+        "author": "Samuel Taylor Coleridge",
+        "opening": "It is an ancient Mariner, And he stoppeth one of three. By thy long grey beard and glittering eye, Now wherefore stopp'st thou me?"
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "opening": "A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes."
+    },
+    {
+        "title": "Tlön, Uqbar, Orbis Tertius",
+        "author": "Jorge Luis Borges",
+        "opening": "Debo a la conjunción de un espejo y de una enciclopedia el descubrimiento de Uqbar."
+    },
+    {
+        "title": "Tom Jones",
+        "author": "Henry Fielding",
+        "opening": "An author ought to consider himself, not as a gentleman who gives a private or eleemosynary treat, but rather as one who keeps a public ordinary, at which all persons are welcome for their money."
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "opening": "1801--I have just returned from a visit to my landlord--the solitary neighbour that I shall be troubled with."
+    }
+]
