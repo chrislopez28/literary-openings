@@ -5,7 +5,7 @@ import styles from './Footer.module.css';
 export default function Footer(props) {
     return (
         <div className={styles.Footer}>
-            <p>
+            <p style={{textAlign: "center"}}>
                 2021 Chris Lopez
             </p>
         </div>

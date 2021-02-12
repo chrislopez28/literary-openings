@@ -14,7 +14,6 @@ import "@reach/combobox/styles.css";
 import './App.css';
 import styles from './App.module.css';
 
-import Footer from './components/Footer/Footer';
 import Quote from './components/Quote/Quote';
 
 function App() {
@@ -65,8 +64,6 @@ function App() {
     let correct = choice === `${work.title} by ${work.author}`;
     answer = (correct ? <h2>Correct!</h2> : <h2>Incorrect.</h2>)
   }
-
-  console.log(work)
 
   return (
     <div className={styles.App}>
@@ -127,7 +124,7 @@ function App() {
       <div className={styles.Center}>
         <button onClick={() => {
           setIsSubmitted(true);
-          window.location.replace("/#answer")
+          window.location.replace("/literary-openings#answer")
         }
         }>Submit</button>
         <br />
