@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/literary-openings/static/css/main.ab30cdb7.chunk.css",
+    "main.js": "/literary-openings/static/js/main.aa2851a8.chunk.js",
+    "main.js.map": "/literary-openings/static/js/main.aa2851a8.chunk.js.map",
+    "runtime-main.js": "/literary-openings/static/js/runtime-main.cd8ae8b7.js",
+    "runtime-main.js.map": "/literary-openings/static/js/runtime-main.cd8ae8b7.js.map",
+    "static/css/2.8d682a32.chunk.css": "/literary-openings/static/css/2.8d682a32.chunk.css",
+    "static/js/2.37bbab7d.chunk.js": "/literary-openings/static/js/2.37bbab7d.chunk.js",
+    "static/js/2.37bbab7d.chunk.js.map": "/literary-openings/static/js/2.37bbab7d.chunk.js.map",
+    "static/js/3.121ee0ca.chunk.js": "/literary-openings/static/js/3.121ee0ca.chunk.js",
+    "static/js/3.121ee0ca.chunk.js.map": "/literary-openings/static/js/3.121ee0ca.chunk.js.map",
+    "index.html": "/literary-openings/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/literary-openings/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.ab30cdb7.chunk.css.map": "/literary-openings/static/css/main.ab30cdb7.chunk.css.map",
+    "static/js/2.37bbab7d.chunk.js.LICENSE.txt": "/literary-openings/static/js/2.37bbab7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd8ae8b7.js",
+    "static/css/2.8d682a32.chunk.css",
+    "static/js/2.37bbab7d.chunk.js",
+    "static/css/main.ab30cdb7.chunk.css",
+    "static/js/main.aa2851a8.chunk.js"
+  ]
+}
