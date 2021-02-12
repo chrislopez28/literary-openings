@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/literary-openings/static/css/main.2e48743b.chunk.css",
-    "main.js": "/literary-openings/static/js/main.c5e8f506.chunk.js",
-    "main.js.map": "/literary-openings/static/js/main.c5e8f506.chunk.js.map",
+    "main.js": "/literary-openings/static/js/main.71b0772b.chunk.js",
+    "main.js.map": "/literary-openings/static/js/main.71b0772b.chunk.js.map",
     "runtime-main.js": "/literary-openings/static/js/runtime-main.cd8ae8b7.js",
     "runtime-main.js.map": "/literary-openings/static/js/runtime-main.cd8ae8b7.js.map",
     "static/css/2.8d682a32.chunk.css": "/literary-openings/static/css/2.8d682a32.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.8d682a32.chunk.css",
     "static/js/2.37bbab7d.chunk.js",
     "static/css/main.2e48743b.chunk.css",
-    "static/js/main.c5e8f506.chunk.js"
+    "static/js/main.71b0772b.chunk.js"
   ]
 }
