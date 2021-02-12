@@ -6,7 +6,7 @@ export default function Footer(props) {
     return (
         <div className={styles.Footer}>
             <p style={{textAlign: "center"}}>
-                2021 Chris Lopez
+                
             </p>
         </div>
     )

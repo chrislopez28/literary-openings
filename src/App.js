@@ -124,7 +124,7 @@ function App() {
       <div className={styles.Center}>
         <button onClick={() => {
           setIsSubmitted(true);
-          window.location.replace("/literary-openings#answer")
+          document.getElementById("answer").scrollIntoView({behavior: 'smooth'});
         }
         }>Submit</button>
         <br />
