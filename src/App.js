@@ -12,7 +12,9 @@ import {
 } from "@reach/combobox";
 import "@reach/combobox/styles.css";
 import './App.css';
+import styles from './App.module.css';
 
+import Footer from './components/Footer/Footer';
 import Quote from './components/Quote/Quote';
 
 function App() {
@@ -22,8 +24,7 @@ function App() {
     window.location.reload(false);
   }
 
-  const randomNum = Math.floor(Math.random() * openings.length);
-
+  const [randomNum, setRandomNum] = useState(Math.floor(Math.random() * openings.length));
   const [choice, setChoice] = useState('');
   const [term, setTerm] = useState('');
   const [work, setWork] = useState(openings[randomNum]);
@@ -35,14 +36,6 @@ function App() {
     const updatedTerm = event.target.value;
     setTerm(updatedTerm);
   }
-
-  // const datalist = openings.map(book => {
-  //   return <option value={book.title} key={book.title} />
-  // })
-
-  const comboboxOptions = openings.map(book => {
-    return <ComboboxOption key={book.title} value={`${book.title} - ${book.author}`}></ComboboxOption>
-  })
 
   function useBookMatch(term) {
     const throttledTerm = useThrottle(term, 100);
@@ -57,63 +50,91 @@ function App() {
     );
   }
 
+  let selectorArr = openings.map((book, index) => {
+    return <option value={index} key={index}>{book.title}</option>
+  })
+  const handleSelector = (event) => {
+    let newRandomNum = event.target.value;
+    setWork(openings[newRandomNum])
+  }
+
+
+
   let answer = null;
   if (isSubmitted) {
-    let correct = choice === `${work.title} - ${work.author}`;
+    let correct = choice === `${work.title} by ${work.author}`;
     answer = (correct ? <h2>Correct!</h2> : <h2>Incorrect.</h2>)
   }
 
+  console.log(work)
+
   return (
-    <div className="App">
+    <div className={styles.App}>
       <h1>Literary Openings</h1>
-      <p>
-        Below is the opening line of a literary work. Can you name where it's from?
-      </p>
-      <Quote>
+      <div className={styles.Center}>
+        <p className={styles.Center}>
+          Below are the opening line(s) of a literary work. Can you name where it's from?
+            </p>
+        <button onClick={refreshPage}>Refresh Quote</button>
+      </div>
+
+      {/* <div className={styles.Center}>
+        <select onChange={handleSelector} defaultValue={randomNum}>
+          {selectorArr}
+        </select>
+      </div> */}
+
+      <Quote work={work}>
         {work.opening}
       </Quote>
 
-      {/* <div>
-        <label htmlFor="answer">Answer:</label><br />
-        <input list="answers" name="answers" id="answer" />
-        <datalist id="answers">
-          {datalist}
-        </datalist>
+      <br /><hr />
+      <h3 className={styles.Center}>Type in and select your answer below:</h3>
+
+      <div className={styles.ComboboxContainer}>
+        <Combobox aria-label="choose a literary work" openOnFocus onSelect={(value) => setChoice(value)}>
+          <ComboboxInput disabled={isSubmitted} onChange={handleChange} />
+          {results && (
+            <ComboboxPopover>
+              {results.length > 0 ? (
+                <ComboboxList>
+                  {results.slice(0, 10).map((result, index) => (
+                    <ComboboxOption
+                      key={index}
+                      value={`${result.title} by ${result.author}`}
+                    />
+                  ))}
+                </ComboboxList>
+              ) : (
+                  <p
+                    style={{
+                      margin: 0,
+                      color: "#454545",
+                      padding: "0.25rem 1rem 0.75rem 1rem",
+                      fontStyle: "italic",
+                    }}
+                  >
+                    No results :(
+                  </p>
+                )}
+            </ComboboxPopover>
+          )}
+        </Combobox>
       </div>
-      <br /> */}
 
-      <Combobox aria-label="choose a fruit" openOnFocus onSelect={(value) => setChoice(value)}>
-        <ComboboxInput onChange={handleChange} style={{ width: "300px" }} />
-        {results && (
-          <ComboboxPopover>
-            {results.length > 0 ? (
-              <ComboboxList>
-                {results.slice(0, 10).map((result, index) => (
-                  <ComboboxOption
-                    key={index}
-                    value={`${result.title} by ${result.author}`}
-                  />
-                ))}
-              </ComboboxList>
-            ) : (
-                <span style={{ display: "block", margin: 8 }}>
-                  No results found
-                </span>
-              )}
-          </ComboboxPopover>
-        )}
-      </Combobox>
       <br />
 
-      {/* <p>
-        Result: {results}
-      </p> */}
-
-      <button onClick={() => setIsSubmitted(true)}>Submit</button>
-      <br />
-      <hr />
-      { answer}
-      <button onClick={refreshPage}>Refresh Page</button>
+      <div className={styles.Center}>
+        <button onClick={() => {
+          setIsSubmitted(true);
+          window.location.replace("/#answer")
+        }
+        }>Submit</button>
+        <br />
+        <div id="answer">
+          {answer}
+        </div>
+      </div>
     </div>
   );
 }

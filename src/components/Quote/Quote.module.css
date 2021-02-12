@@ -1,7 +1,13 @@
 .Quote {
-    width: 80vw;
-    /* height: 50vh; */
+    width: inherit;
+    max-width: inherit;
     margin: 0 auto;
     display: flex;
     align-items: center;
+    overflow-x: wrap;
+    white-space: pre-line; /* Allows for newline '\n' to be applied */
+}
+
+.Verse {
+    text-align: left;
 }

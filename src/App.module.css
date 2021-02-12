@@ -1,0 +1,46 @@
+.App {
+    min-height: 100vh-3.5rem;
+    overflow-y: auto;
+    flex: 1;
+    width: 85vw;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
+.App h1 {
+    text-align: center;
+}
+
+.Center {
+    text-align: center;
+}
+
+.ComboboxContainer {
+    width: 100%;
+    text-align: center;
+}
+
+[data-reach-combobox-input] {
+    width: 300px;
+}
+
+/*
+
+[data-reach-combobox-popover] {
+    width: !important;
+}
+
+[data-reach-combobox-list] {
+    width: 100% !important;
+} */
+
+/* the string portions that match what the user has typed */
+[data-user-value] {
+    font-weight: bold;
+}
+/* the string portions are suggested */
+[data-suggested-value] {
+    font-weight: normal;
+    color: grey;
+}
