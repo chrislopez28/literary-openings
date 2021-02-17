@@ -1,0 +1,25 @@
+.Button {
+    border-style: none;
+    height: 2rem;
+    width: 8rem;
+    background-color: rgb(135, 83, 23);
+    color: white;
+    border: 2px solid rgb(80, 50, 1);
+    border-radius: 4px;
+    text-align: center;
+}
+
+.Button:hover {
+    background-color: rgb(150, 100, 40);
+    cursor: pointer;
+}
+
+.Button:active {
+    background-color: rgb(120, 75, 20);
+    color: grey;
+}
+
+.Button:disabled {
+    background-color: rgba(135, 83, 23, 0.5);
+    cursor: not-allowed;
+}

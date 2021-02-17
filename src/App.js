@@ -14,6 +14,9 @@ import "@reach/combobox/styles.css";
 import './App.css';
 import styles from './App.module.css';
 
+import Answer from './components/Answer/Answer';
+import BookSelector from './components/BookSelector/BookSelector';
+import Button from './components/UI/Button/Button';
 import Quote from './components/Quote/Quote';
 
 function App() {
@@ -25,61 +28,68 @@ function App() {
 
   const [randomNum, setRandomNum] = useState(Math.floor(Math.random() * openings.length));
   const [choice, setChoice] = useState('');
-  const [term, setTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState('');
   const [work, setWork] = useState(openings[randomNum]);
   const [isSubmitted, setIsSubmitted] = useState(false);
 
-  const results = useBookMatch(term);
+  const results = useBookMatch(searchTerm);
 
   const handleChange = (event) => {
     const updatedTerm = event.target.value;
-    setTerm(updatedTerm);
+    setSearchTerm(updatedTerm);
   }
 
-  function useBookMatch(term) {
-    const throttledTerm = useThrottle(term, 100);
+  function useBookMatch(searchTerm) {
+    const throttledTerm = useThrottle(searchTerm, 100);
     return React.useMemo(
       () =>
-        term.trim() === ""
+        searchTerm.trim() === ""
           ? null
-          : matchSorter(openings, term, {
+          : matchSorter(openings, searchTerm, {
             keys: [(opening) => `${opening.title}, ${opening.author}`],
           }),
       [throttledTerm]
     );
   }
 
-  let selectorArr = openings.map((book, index) => {
-    return <option value={index} key={index}>{book.title}</option>
-  })
   const handleSelector = (event) => {
     let newRandomNum = event.target.value;
-    setWork(openings[newRandomNum])
+    setRandomNum(newRandomNum);
+    setWork(openings[newRandomNum]);
   }
 
-
+  const submitHandler = () => {
+    setIsSubmitted(true);
+    // document.getElementById("answer").scrollIntoView({ behavior: 'smooth' });
+    window.scrollTo(0, 0);
+  }
 
   let answer = null;
   if (isSubmitted) {
-    let correct = choice === `${work.title} by ${work.author}`;
-    answer = (correct ? <h2>Correct!</h2> : <h2>Incorrect.</h2>)
+    answer = <Answer work={work} isCorrect={choice === `${work.title} by ${work.author}`} refreshPage={refreshPage} />
   }
 
-  return (
+  function AnswerPage() {
+    return (
+      <div className={styles.App}>
+        <a href="" style={{ textDecoration: "none", color: "black" }}><h1>Literary Openings</h1></a>
+        <div id="answer">
+          {answer}
+        </div>
+      </div>
+    )
+  }
+
+  return (!isSubmitted ? (
     <div className={styles.App}>
-      <h1>Literary Openings</h1>
+      <a href="" style={{ textDecoration: "none", color: "black" }}><h1>Literary Openings</h1></a>
       <div className={styles.Center}>
         <p className={styles.Center}>
-          Below are the opening line(s) of a literary work. Can you name where it's from?
-            </p>
-        <button onClick={refreshPage}>Refresh Quote</button>
+          Below are the opening line(s) of a <span style={{color: "brown"}} title="Could be fiction or non-fiction. Types of works include novels, plays, treatises, or poems.">literary work</span>. Can you name where it's from?
+    </p>
       </div>
 
-      {/* <div className={styles.Center}>
-        <select onChange={handleSelector} defaultValue={randomNum}>
-          {selectorArr}
-        </select>
-      </div> */}
+      {/* <BookSelector onChange={handleSelector} defaultValue={randomNum} openings={openings} /> */}
 
       <Quote work={work}>
         {work.opening}
@@ -108,7 +118,7 @@ function App() {
                       margin: 0,
                       color: "#454545",
                       padding: "0.25rem 1rem 0.75rem 1rem",
-                      fontStyle: "italic",
+                      fontStyle: "italic"
                     }}
                   >
                     No results :(
@@ -118,22 +128,12 @@ function App() {
           )}
         </Combobox>
       </div>
-
       <br />
-
       <div className={styles.Center}>
-        <button onClick={() => {
-          setIsSubmitted(true);
-          document.getElementById("answer").scrollIntoView({behavior: 'smooth'});
-        }
-        }>Submit</button>
-        <br />
-        <div id="answer">
-          {answer}
-        </div>
+        <Button disabled={!choice} onClick={submitHandler}>Submit</Button>
       </div>
     </div>
-  );
+  ) : <AnswerPage />)
 }
 
 export default App;
