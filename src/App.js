@@ -24,6 +24,7 @@ function App() {
 
   function refreshPage() {
     window.location.reload(false);
+    window.scrollTo(0, 0);
   }
 
   const [randomNum, setRandomNum] = useState(Math.floor(Math.random() * openings.length));
@@ -86,10 +87,11 @@ function App() {
       <div className={styles.Center}>
         <p className={styles.Center}>
           Below are the opening line(s) of a <span style={{color: "brown"}} title="Could be fiction or non-fiction. Types of works include novels, plays, treatises, or poems.">literary work</span>. Can you name where it's from?
+          There are {openings.length} literary works in the library.
     </p>
       </div>
-
-      {/* <BookSelector onChange={handleSelector} defaultValue={randomNum} openings={openings} /> */}
+      
+      <BookSelector onChange={handleSelector} defaultValue={randomNum} openings={openings} />
 
       <Quote work={work}>
         {work.opening}
