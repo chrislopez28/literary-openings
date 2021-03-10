@@ -1,254 +1,262 @@
 [
-    {
-        "title": "A Christmas Carol",
-        "author": "Charles Dickens",
-        "opening": "Marley was dead: to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner. Scrooge signed it: and Scrooge’s name was good upon ’Change, for anything he chose to put his hand to. Old Marley was as dead as a door-nail."
-    },
-    {
-        "title": "Adventures of Huckleberry Finn",
-        "author": "Mark Twain",
-        "opening": "You don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly—Tom’s Aunt Polly, she is—and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before."
-    },
-    {
-        "title": "Anna Karenina",
-        "author": "Leo Tolstoy",
-        "opening": "Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему.",
-        "translation": "All happy families are alike, each unhappy family is unhappy in its own way."
-    },
-    {
-        "title": "A Tale of Two Cities",
-        "author": "Charles Dickens",
-        "opening": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only."
-    },
-    {
-        "title": "Beowulf",
-        "author": "(Anonymous)",
-        "opening": "Hwæt. We Gardena in geardagum,\nþeodcyninga, þrym gefrunon,\nhu ða æþelingas ellen fremedon.",
-        "translation": "Lo! the Spear-Danes’ glory through splendid achievements\nThe folk-kings’ former fame we have heard of,\nHow princes displayed then their prowess-in-battle.",
-        "translator": "Lesslie Hall"
-    },
-    {
-        "title": "Candide",
-        "author": "Voltaire",
-        "opening": "Il y avait en Vestphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les moeurs les plus douces. Sa physionomie annonçait son âme. Il avait le jugement assez droit, avec l'esprit le plus simple; c'est, je crois, pour cette raison qu'on le nommait Candide. Les anciens domestiques de la maison soupçonnaient qu'il était fils de la soeur de monsieur le baron et d'un bon et honnête gentilhomme du voisinage, que cette demoiselle ne voulut jamais épouser parce qu'il n'avait pu prouver que soixante et onze quartiers, et que le reste de son arbre généalogique avait été perdu par l'injure du temps.",
-        "translation": "In a castle of Westphalia, belonging to the Baron of Thunder-ten-Tronckh, lived a youth, whom nature had endowed with the most gentle manners. His countenance was a true picture of his soul. He combined a true judgment with simplicity of spirit, which was the reason, I apprehend, of his being called Candide. The old servants of the family suspected him to have been the son of the Baron's sister, by a good, honest gentleman of the neighborhood, whom that young lady would never marry because he had been able to prove only seventy-one quarterings, the rest of his genealogical tree having been lost through the injuries of time.",
-        "translator": ""
-    },
-    {
-        "title": "Don Quixote",
-        "author": "Miguel de Cervantes",
-        "opening": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino. Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso escriben; aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana. Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.",
-        "translation": "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income. The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman. They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana. This, however, is of but little importance to our tale; it will be enough not to stray a hair’s breadth from the truth in the telling of it.",
-        "translator": "John Ormsby"
-    },
-    {
-        "title": "Faust",
-        "author": "Johann Wolfgang von Goethe",
-        "opening": "Habe nun, ach! Philosophie,\nJuristerey und Medicin,\nUnd leider auch Theologie!\nDurchaus studirt, mit heißem Bemühn.\nDa steh’ ich nun, ich armer Thor!\nUnd bin so klug als wie zuvor;\nHeiße Magister, heiße Doctor gar,\nUnd ziehe schon an die zehen Jahr,\nHerauf, herab und quer und krumm,\nMeine Schüler an der Nase herum –\nUnd sehe, daß wir nichts wissen können!\nDas will mir schier das Herz verbrennen.\nZwar bin ich gescheidter als alle die Laffen,\nDoctoren, Magister, Schreiber und Pfaffen;\nMich plagen keine Scrupel noch Zweifel,\nFürchte mich weder vor Hölle noch Teufel –",
-        "translation": "I've studied now Philosophy\nAnd Jurisprudence, Medicine,—\nAnd even, alas! Theology,—\nFrom end to end, with labor keen;\nAnd here, poor fool! with all my lore\nI stand, no wiser than before:\nI'm Magister—yea, Doctor—hight,\nAnd straight or cross-wise, wrong or right,\nThese ten years long, with many woes,\nI've led my scholars by the nose,—\nAnd see, that nothing can be known!\nThat knowledge cuts me to the bone.\nI'm cleverer, true, than those fops of teachers,\nDoctors and Magisters, Scribes and Preachers;\nNeither scruples nor doubts come now to smite me,\nNor Hell nor Devil can longer affright me.",
-        "translator": "Bayard Taylor"
-    },
-    {
-        "title": "Great Expectations",
-        "author": "Charles Dickens",
-        "opening": "My father's family name being Pirrip, and my christian name Phillip, my infant tongue could make of both names nothing longer or more explicit than Pip."
-    },
-    {
-        "title": "Hamlet",
-        "author": "William Shakespeare",
-        "opening": "BARNARDO.\nWho’s there?\n\nFRANCISCO.\nNay, answer me. Stand and unfold yourself.\n\nBARNARDO.\nLong live the King!\n\nFRANCISCO.\nBarnardo?\n\nBARNARDO.\nHe.\n\nFRANCISCO.\nYou come most carefully upon your hour.\n\nBARNARDO.\n’Tis now struck twelve. Get thee to bed, Francisco.\n\nFRANCISCO.\nFor this relief much thanks. ’Tis bitter cold,\nAnd I am sick at heart.\n\nBARNARDO.\nHave you had quiet guard?\n\nFRANCISCO.\nNot a mouse stirring.\n\nBARNARDO.\nWell, good night.\nIf you do meet Horatio and Marcellus,\nThe rivals of my watch, bid them make haste."
-    },
-    {
-        "title": "Jane Eyre",
-        "author": "Charlotte Brontë",
-        "opening": "There was no possibility of taking a walk that day."
-    },
-    {
-        "title": "Journey to the West",
-        "author": "Cheng'en Wu",
-        "opening": "第一回 靈根育孕源流出　心性修持大道生\n\n詩曰：\n混沌未分天地亂，茫茫渺渺無人見。\n 自從盤古破鴻濛，開闢從茲清濁辨。\n 覆載群生仰至仁，發明萬物皆成善。\n 欲知造化會元功，須看西遊釋厄傳。",
-        "translation": "The Divine Root Conceives and the Spring Breaks Forth\nAs the Heart's Nature Is Cultivated, the Great Way Arises\nBefore Chaos was divided, Heaven and Earth were one;\nAll was a shapeless blur, and no men had appeared.\nOnce Pan Gu destroyed the Enormous Vagueness\nThe Separation of clear and impure began.\n\nLiving things have always tended towards humanity; From their creation all beings improve.\nIf you want to know about Creation and Time\nRead Difficulties Resolved on the Journey to the West.",
-        "translator": "Anthony C. Wu"
-    },
-    {
-        "title": "Les Misérables",
-        "author": "Victor Hugo",
-        "opening": "En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne. C'était un vieillard d'environ soixante-quinze ans; il occupait le siège de Digne depuis 1806.\n\nQuoique ce détail ne touche en aucune manière au fond même de ce que nous avons à raconter, il n'est peut-être pas inutile, ne fût-ce que pour être exact en tout, d'indiquer ici les bruits et les propos qui avaient couru sur son compte au moment où il était arrivé dans le diocèse. Vrai ou faux, ce qu'on dit des hommes tient souvent autant de place dans leur vie et surtout dans leur destinée que ce qu'ils font. M. Myriel était fils d'un conseiller au parlement d'Aix; noblesse de robe. On contait de lui que son père, le réservant pour hériter de sa charge, l'avait marié de fort bonne heure, à dix-huit ou vingt ans, suivant un usage assez répandu dans les familles parlementaires. Charles Myriel, nonobstant ce mariage, avait, disait-on, beaucoup fait parler de lui. Il était bien fait de sa personne, quoique d'assez petite taille, élégant, gracieux, spirituel; toute la première partie de sa vie avait été donnée au monde et aux galanteries. La révolution survint, les événements se précipitèrent, les familles parlementaires décimées, chassées, traquées, se dispersèrent. M. Charles Myriel, dès les premiers jours de la révolution, émigra en Italie. Sa femme y mourut d'une maladie de poitrine dont elle était atteinte depuis longtemps. Ils n'avaient point d'enfants. Que se passa-t-il ensuite dans la destinée de M. Myriel? L'écroulement de l'ancienne société française, la chute de sa propre famille, les tragiques spectacles de 93, plus effrayants encore peut-être pour les émigrés qui les voyaient de loin avec le grossissement de l'épouvante, firent-ils germer en lui des idées de renoncement et de solitude? Fut-il, au milieu d'une de ces distractions et de ces affections qui occupaient sa vie, subitement atteint d'un de ces coups mystérieux et terribles qui viennent quelquefois renverser, en le frappant au cœur, l'homme que les catastrophes publiques n'ébranleraient pas en le frappant dans son existence et dans sa fortune? Nul n'aurait pu le dire; tout ce qu'on savait, c'est que, lorsqu'il revint d'Italie, il était prêtre.",
-        "translation": "In 1815, M. Charles-François-Bienvenu Myriel was Bishop of D—— He was an old man of about seventy-five years of age; he had occupied the see of D—— since 1806.\n\nAlthough this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese. True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do. M. Myriel was the son of a councillor of the Parliament of Aix; hence he belonged to the nobility of the bar. It was said that his father, destining him to be the heir of his own post, had married him at a very early age, eighteen or twenty, in accordance with a custom which is rather widely prevalent in parliamentary families. In spite of this marriage, however, it was said that Charles Myriel created a great deal of talk. He was well formed, though rather short in stature, elegant, graceful, intelligent; the whole of the first portion of his life had been devoted to the world and to gallantry.",
-        "translator": "Isabel F. Hapgood"
-    },
-    {
-        "title": "Leviathan",
-        "author": "Thomas Hobbes",
-        "opening": "Concerning the Thoughts of man, I will consider them first Singly, and afterwards in Trayne, or dependance upon one another. Singly, they are every one a Representation or Apparence, of some quality, or other Accident of a body without us; which is commonly called an Object. Which Object worketh on the Eyes, Eares, and other parts of mans body; and by diversity of working, produceth diversity of Apparences.\n\nThe Originall of them all, is that which we call Sense; (For there is no conception in a mans mind, which hath not at first, totally, or by parts, been begotten upon the organs of Sense.) The rest are derived from that originall.\n\nTo know the naturall cause of Sense, is not very necessary to the business now in hand; and I have els-where written of the same at large. Nevertheless, to fill each part of my present method, I will briefly deliver the same in this place.\n\nThe cause of Sense, is the Externall Body, or Object, which presseth the organ proper to each Sense, either immediatly, as in the Tast and Touch; or mediately, as in Seeing, Hearing, and Smelling: which pressure, by the mediation of Nerves, and other strings, and membranes of the body, continued inwards to the Brain, and Heart, causeth there a resistance, or counter-pressure, or endeavour of the heart, to deliver it self: which endeavour because Outward, seemeth to be some matter without. And this Seeming, or Fancy, is that which men call sense; and consisteth, as to the Eye, in a Light, or Colour Figured; To the Eare, in a Sound; To the Nostrill, in an Odour; To the Tongue and Palat, in a Savour; and to the rest of the body, in Heat, Cold, Hardnesse, Softnesse, and such other qualities, as we discern by Feeling. All which qualities called Sensible, are in the object that causeth them, but so many several motions of the matter, by which it presseth our organs diversly. Neither in us that are pressed, are they anything els, but divers motions; (for motion, produceth nothing but motion.) But their apparence to us is Fancy, the same waking, that dreaming. And as pressing, rubbing, or striking the Eye, makes us fancy a light; and pressing the Eare, produceth a dinne; so do the bodies also we see, or hear, produce the same by their strong, though unobserved action, For if those Colours, and Sounds, were in the Bodies, or Objects that cause them, they could not bee severed from them, as by glasses, and in Ecchoes by reflection, wee see they are; where we know the thing we see, is in one place; the apparence, in another. And though at some certain distance, the reall, and very object seem invested with the fancy it begets in us; Yet still the object is one thing, the image or fancy is another. So that Sense in all cases, is nothing els but originall fancy, caused (as I have said) by the pressure, that is, by the motion, of externall things upon our Eyes, Eares, and other organs thereunto ordained.\n\nBut the Philosophy-schooles, through all the Universities of Christendome, grounded upon certain Texts of Aristotle, teach another doctrine; and say, For the cause of Vision, that the thing seen, sendeth forth on every side a Visible Species(in English) a Visible Shew, Apparition, or Aspect, or a Being Seen; the receiving whereof into the Eye, is Seeing. And for the cause of Hearing, that the thing heard, sendeth forth an Audible Species, that is, an Audible Aspect, or Audible Being Seen; which entring at the Eare, maketh Hearing. Nay for the cause of Understanding also, they say the thing Understood sendeth forth Intelligible Species, that is, an Intelligible Being Seen; which comming into the Understanding, makes us Understand. I say not this, as disapproving the use of Universities: but because I am to speak hereafter of their office in a Common-wealth, I must let you see on all occasions by the way, what things would be amended in them; amongst which the frequency of insignificant Speech is one.",
-        "type": "Philosophy"
-    },
-    {
-        "title": "Macbeth",
-        "author": "William Shakespeare",
-        "opening": "FIRST WITCH.\nWhen shall we three meet again?\nIn thunder, lightning, or in rain?\n\nSECOND WITCH.\nWhen the hurlyburly’s done,\nWhen the battle’s lost and won.\n\nTHIRD WITCH.\nThat will be ere the set of sun.\n\nFIRST WITCH.\nWhere the place?\n\nSECOND WITCH.\nUpon the heath.\n\nTHIRD WITCH.\nThere to meet with Macbeth.\n\nFIRST WITCH.\nI come, Graymalkin!\n\nSECOND WITCH.\nPaddock calls.\n\nTHIRD WITCH.\nAnon.\n\nALL.\nFair is foul, and foul is fair:\nHover through the fog and filthy air."
-    },
-    {
-        "title": "Madame Bovary",
-        "author": "Gustave Flaubert",
-        "opening": "Nous étions à l'Étude, quand le Proviseur entra, suivi d'un nouveau habillé en bourgeois et d'un garçon de classe qui portait un grand pupitre. Ceux qui dormaient se réveillèrent, et chacun se leva comme surpris dans son travail.\n\nLe Proviseur nous fit signe de nous rasseoir; puis, se tournant vers le maître d'études:\n\n— Monsieur Roger, lui dit-il à demi-voix, voici un élève que je vous recommande, il entre en cinquième. Si son travail et sa conduite sont méritoires, il passera dans les grands, où l'appelle son âge.\n\nResté dans l'angle, derrière la porte, si bien qu'on l'apercevait à peine, le nouveau était un gars de la campagne, d'une quinzaine d'années environ, et plus haut de taille qu'aucun de nous tous. Il avait les cheveux coupés droit sur le front, comme un chantre de village, l'air raisonnable et fort embarrassé. Quoiqu'il ne fût pas large des épaules, son habit-veste de drap vert à boutons noirs devait le gêner aux entournures et laissait voir, par la fente des parements, des poignets rouges habitués à être nus. Ses jambes, en bas bleus, sortaient d'un pantalon jaunâtre très tiré par les bretelles. Il était chaussé de souliers forts, mal cirés, garnis de clous.",
-        "translation": "We were in class when the head-master came in, followed by a “new fellow,” not wearing the school uniform, and a school servant carrying a large desk. Those who had been asleep woke up, and every one rose as if just surprised at his work.\n\nThe head-master made a sign to us to sit down. Then, turning to the class-master, he said to him in a low voice—\n\n“Monsieur Roger, here is a pupil whom I recommend to your care; he’ll be in the second. If his work and conduct are satisfactory, he will go into one of the upper classes, as becomes his age.”\n\nThe “new fellow,” standing in the corner behind the door so that he could hardly be seen, was a country lad of about fifteen, and taller than any of us. His hair was cut square on his forehead like a village chorister’s; he looked reliable, but very ill at ease. Although he was not broad-shouldered, his short school jacket of green cloth with black buttons must have been tight about the arm-holes, and showed at the opening of the cuffs red wrists accustomed to being bare. His legs, in blue stockings, looked out from beneath yellow trousers, drawn tight by braces, He wore stout, ill-cleaned, hob-nailed boots.",
-        "translator": "Eleanor Marx-Aveling"
-    },
-    {
-        "title": "Metamorphosis",
-        "author": "Franz Kafka",
-        "opening": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt. Er lag auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig hob, seinen gewölbten, braunen, von bogenförmigen Versteifungen geteilten Bauch, auf dessen Höhe sich die Bettdecke, zum gänzlichen Niedergleiten bereit, kaum noch erhalten konnte. Seine vielen, im Vergleich zu seinem sonstigen Umfang kläglich dünnen Beine flimmerten ihm hilflos vor den Augen.",
-        "translation": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.",
-        "translator": "David Wyllie"
-    },
-    {
-        "title": "Moby Dick",
-        "author": "Herman Melville",
-        "opening": "Call me Ishmael."
-    },
-    {
-        "title": "Narrative of the Life of Frederick Douglass, an American Slave",
-        "author": "Frederick Douglass",
-        "opening": "I was born in Tuckahoe, near Hillsborough, and about twelve miles from Easton, in Talbot county, Maryland. I have no accurate knowledge of my age, never having seen any authentic record containing it. By far the larger part of the slaves know as little of their ages as horses know of theirs, and it is the wish of most masters within my knowledge to keep their slaves thus ignorant. I do not remember to have ever met a slave who could tell of his birthday. They seldom come nearer to it than planting-time, harvest-time, cherry-time, spring-time, or fall-time. A want of information concerning my own was a source of unhappiness to me even during childhood. The white children could tell their ages. I could not tell why I ought to be deprived of the same privilege. I was not allowed to make any inquiries of my master concerning it. He deemed all such inquiries on the part of a slave improper and impertinent, and evidence of a restless spirit. The nearest estimate I can give makes me now between twenty-seven and twenty-eight years of age. I come to this, from hearing my master say, some time during 1835, I was about seventeen years old."
-    },
-    {
-        "title": "Paradise Lost",
-        "author": "John Milton",
-        "opening": "This First Book proposes, first in brief, the whole subject--Man's disobedience, and the loss thereupon of Paradise, wherein he was placed: then touches the prime cause of his fall--the Serpent, or rather Satan in the Serpent; who, revolting from God, and drawing to his side many legions of Angeles, was, by the command of God, driven out of Heaven, with all his crew, into the great Deep."
-    },
-    {
-        "title": "Peter Pan",
-        "author": "J. M. Barrie",
-        "opening": "All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end."
-    },
-    {
-        "title": "Persuasion",
-        "author": "Jane Austen",
-        "opening": "Sir Walter Elliot, of Kellynch-hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limiting remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs, changed naturally into pity and contempt, as he turned over the almost endless creations of the last century - and there, if every other leaf were powerless, he could read his own history with an interest which never failed - this was the page at which the favourite volume always opened:\n\nELLIOT of KELLYNCH-HALL."
-    },
-    {
-        "title": "Pierre Menard, Autor del Quijote",
-        "author": "Jorge Luis Borges",
-        "opening": "La obra visible que ha dejado este novelista es de fácil y breve enumeración."
-    },
-    {
-        "title": "Pride & Prejudice",
-        "author": "Jane Austen",
-        "opening": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
-    },
-    {
-        "title": "Robinson Crusoe",
-        "author": "Daniel Defoe",
-        "opening": "I was born in the year 1632, in the city of York, of a good family, though not of that country, my father being a foreigner of Bremen, who settled first at Hull."
-    },
-    {
-        "title": "Romeo and Juliet",
-        "author": "William Shakespeare",
-        "opening": "SAMPSON.\nGregory, on my word, we’ll not carry coals.\n\nGREGORY.\nNo, for then we should be colliers.\n\nSAMPSON.\nI mean, if we be in choler, we’ll draw.\n\nGREGORY.\nAy, while you live, draw your neck out o’ the collar.\n\nSAMPSON.\nI strike quickly, being moved.\n\nGREGORY.\nBut thou art not quickly moved to strike.\n\nSAMPSON.\nA dog of the house of Montague moves me.\n\nGREGORY.\nTo move is to stir; and to be valiant is to stand: therefore, if thou art moved, thou runn’st away.\n\nSAMPSON.\nA dog of that house shall move me to stand.\nI will take the wall of any man or maid of Montague’s.\n\nGREGORY.\nThat shows thee a weak slave, for the weakest goes to the wall.\n\nSAMPSON.\nTrue, and therefore women, being the weaker vessels, are ever thrust to the wall: therefore I will push Montague’s men from the wall, and thrust his maids to the wall.\n\nGREGORY.\nThe quarrel is between our masters and us their men.\n\nSAMPSON.\n’Tis all one, I will show myself a tyrant: when I have fought with the men I will be civil with the maids, I will cut off their heads.\n\nGREGORY.\nThe heads of the maids?\n\nSAMPSON.\nAy, the heads of the maids, or their maidenheads; take it in what sense thou wilt.\n\nGREGORY.\nThey must take it in sense that feel it.\n\nSAMPSON.\nMe they shall feel while I am able to stand: and ’tis known I am a pretty piece of flesh.\n\nGREGORY.\n’Tis well thou art not fish; if thou hadst, thou hadst been poor John. Draw thy tool; here comes of the house of Montagues."
-    },
-    {
-        "title": "Sense and Sensibility",
-        "author": "Jane Austen",
-        "opening": "The family of Dashwood had been long settled in Sussex."
-    },
-    {
-        "title": "Siddhartha",
-        "author": "Hermann Hesse",
-        "opening": "Im Schatten des Hauses, in der Sonne des Flußufers bei den Booten, im Schatten des Salwaldes, im Schatten des Feigenbaumes wuchs Siddhartha auf, der schöne Sohn des Brahmanen, der junge Falke, zusammen mit Govinda, seinem Freunde, dem Brahmanensohn. Sonne bräunte seine lichten Schultern am Flußufer, beim Bade, bei den heiligen Waschungen, bei den heiligen Opfern. Schatten floß in seine schwarzen Augen im Mangohain, bei den Knabenspielen, beim Gesang der Mutter, bei den heiligen Opfern, bei den Lehren seines Vaters, des Gelehrten, beim Gespräch der Weisen. Lange schon nahm Siddhartha am Gespräch der Weisen teil, übte sich mit Govinda im Redekampf, übte sich mit Govinda in der Kunst der Betrachtung, im Dienst der Versenkung. Schon verstand er, lautlos das Om zu sprechen, das Wort der Worte, es lautlos in sich hinein zu sprechen mit dem Einhauch, es lautlos aus sich heraus zu sprechen mit dem Aushauch, mit gesammelter Seele, die Stirn umgeben vom Glanz des klardenkenden Geistes. Schon verstand er, im Innern seines Wesens Atman zu wissen, unzerstörbar, eins mit dem Weltall.",
-        "translation": "In the shade of the house, in the sunshine of the riverbank near the boats, in the shade of the Sal-wood forest, in the shade of the fig tree is where Siddhartha grew up, the handsome son of the Brahman, the young falcon, together with his friend Govinda, son of a Brahman. The sun tanned his light shoulders by the banks of the river when bathing, performing the sacred ablutions, the sacred offerings. In the mango grove, shade poured into his black eyes, when playing as a boy, when his mother sang, when the sacred offerings were made, when his father, the scholar, taught him, when the wise men talked. For a long time, Siddhartha had been partaking in the discussions of the wise men, practising debate with Govinda, practising with Govinda the art of reflection, the service of meditation. He already knew how to speak the Om silently, the word of words, to speak it silently into himself while inhaling, to speak it silently out of himself while exhaling, with all the concentration of his soul, the forehead surrounded by the glow of the clear-thinking spirit. He already knew to feel Atman in the depths of his being, indestructible, one with the universe.",
-        "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets"
-    },
-    {
-        "title": "The Brothers Karamazov",
-        "author": "Fyodor Dostoyevsky",
-        "opening": "Алексей Федорович Карамазов был третьим сыном помещика нашего уезда Федора Павловича Карамазова, столь известного в свое время (да и теперь еще у нас припоминаемого) по трагической и темной кончине своей, приключившейся ровно тринадцать лет назад и о которой сообщу в своем месте. Теперь же скажу об этом «помещике» (как его у нас называли, хотя он всю жизнь совсем почти не жил в своем поместье) лишь то, что это был странный тип, довольно часто, однако, встречающийся, именно тип человека не только дрянного и развратного, но вместе с тем и бестолкового, — но из таких, однако, бестолковых, которые умеют отлично обделывать свои имущественные делишки, и только, кажется, одни эти. Федор Павлович, например, начал почти что ни с чем, помещик он был самый маленький, бегал обедать по чужим столам, норовил в приживальщики, а между тем в момент кончины его у него оказалось до ста тысяч рублей чистыми деньгами. И в то же время он все-таки всю жизнь свою продолжал быть одним из бестолковейших сумасбродов по всему нашему уезду. Повторю еще: тут не глупость; большинство этих сумасбродов довольно умно и хитро, — а именно бестолковость, да еще какая-то особенная, национальная.",
-        "translation": "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov, a land owner well known in our district in his own day, and still remembered among us owing to his gloomy and tragic death, which happened thirteen years ago, and which I shall describe in its proper place. For the present I will only say that this “landowner”—for so we used to call him, although he hardly spent a day of his life on his own estate—was a strange type, yet one pretty frequently to be met with, a type abject and vicious and at the same time senseless. But he was one of those senseless persons who are very well capable of looking after their worldly affairs, and, apparently, after nothing else. Fyodor Pavlovitch, for instance, began with next to nothing; his estate was of the smallest; he ran to dine at other men's tables, and fastened on them as a toady, yet at his death it appeared that he had a hundred thousand roubles in hard cash. At the same time, he was all his life one of the most senseless, fantastical fellows in the whole district. I repeat, it was not stupidity—the majority of these fantastical fellows are shrewd and intelligent enough—but just senselessness, and a peculiar national form of it.",
-        "translator": "Constance Garnett"
-    },
-    {
-        "title": "The Call of the Wild",
-        "author": "Jack London",
-        "opening": "“Old longings nomadic leap,\nChafing at custom’s chain;\nAgain from its brumal sleep\nWakens the ferine strain.”\n\nBuck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland. These men wanted dogs, and the dogs they wanted were heavy dogs, with strong muscles by which to toil, and furry coats to protect them from the frost."
-    },
-    {
-        "title": "The Canterbury Tales",
-        "author": "Geoffrey Chaucer",
-        "opening": "Whan that Aprille with his shoures soote,\nThe droghte of March hath perced to the roote,\nAnd bathed every veyne in swich licóur\nOf which vertú engendred is the flour;\nWhan Zephirus eek with his swete breeth\nInspired hath in every holt and heeth\nThe tendre croppes, and the yonge sonne\nHath in the Ram his halfe cours y-ronne,\nAnd smale foweles maken melodye,\nThat slepen al the nyght with open ye,\nSo priketh hem Natúre in hir corages,\nThanne longen folk to goon on pilgrimages,\nAnd palmeres for to seken straunge strondes,\nTo ferne halwes, kowthe in sondry londes;\nAnd specially, from every shires ende\nOf Engelond, to Caunterbury they wende,\nThe hooly blisful martir for to seke,\nThat hem hath holpen whan that they were seeke.",
-        "type": "Verse"
-    },
-    {
-        "title": "The Great Gatsby",
-        "author": "F. Scott Fitzgerald",
-        "opening": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.\n\n“Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”"
-    },
-    {
-        "title": "The Iliad",
-        "author": "Homer",
-        "opening": "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε, πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι, Διὸς δ᾽ ἐτελείετο βουλή, ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς."
-    },
-    {
-        "title": "The Pilgrim's Progress",
-        "author": "John Bunyan",
-        "opening": "As I walked through the wilderness of this world, I lighted on a certain place where was a den, and laid me down in that place to sleep; and as I slept, I dreamed a dream."
-    },
-    {
-        "title": "The Picture of Dorian Gray",
-        "author": "Oscar Wilde",
-        "opening": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.\n\nFrom the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion. The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive. The dim roar of London was like the bourdon note of a distant organ."
-    },
-    {
-        "title": "The Prince",
-        "author": "Nicolo Machiavelli",
-        "opening": "Tutti gli stati, tutti e' dominii che hanno avuto e hanno imperio sopra li uomini, sono stati e sono o republiche o principati. E' principati sono, o ereditarii, de' quali el sangue del loro signore ne sia suto lungo tempo principe, o e' sono nuovi. E' nuovi, o sono nuovi tutti, come fu Milano a Francesco Sforza, o sono come membri aggiunti allo stato ereditario del principe che li acquista, come è el regno di Napoli al re di Spagna. Sono questi dominii così acquistati, o consueti a vivere sotto un principe, o usi ad essere liberi; e acquistonsi o con le armi d'altri o con le proprie, o per fortuna o per virtù.",
-        "translation": "All states, all powers, that have held and hold rule over men have been and are either republics or principalities.\n\nPrincipalities are either hereditary, in which the family has been long established; or they are new.\n\nThe new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the prince who has acquired them, as was the kingdom of Naples to that of the King of Spain.\n\nSuch dominions thus acquired are either accustomed to live under a prince, or to live in freedom; and are acquired either by the arms of the prince himself, or of others, or else by fortune or by ability.",
-        "translator": "W. K. Marriott"
-    },
-    {
-        "title": "The Rime of the Ancient Mariner",
-        "author": "Samuel Taylor Coleridge",
-        "opening": "It is an ancient Mariner, And he stoppeth one of three. By thy long grey beard and glittering eye, Now wherefore stopp'st thou me?"
-    },
-    {
-        "title": "The Scarlet Letter",
-        "author": "Nathaniel Hawthorne",
-        "opening": "A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes."
-    },
-    {
-        "title": "The Sorrows of Young Werther",
-        "author": "Johann Wolfgang von Goethe",
-        "opening": "Am 4. Mai 1771\n\nWie froh bin ich, daß ich weg bin! Bester Freund, was ist das Herz des Menschen! Dich zu verlassen, den ich so liebe, von dem ich unzertrennlich war, und froh zu sein! Ich weiß, du verzeihst mir's. Waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal, um ein Herz wie das meine zu ängstigen? Die arme Leonore! Und doch war ich unschuldig. Konnt' ich dafür, daß, während die eigensinnigen Reize ihrer Schwester mir eine angenehme Unterhaltung verschafften, daß eine Leidenschaft in dem armen Herzen sich bildete? Und doch—bin ich ganz unschuldig? Hab' ich nicht ihre Empfindungen genährt? Hab' ich mich nicht an den ganz wahren Ausdrücken der Natur, die uns so oft zu lachen machten, so wenig lächerlich sie waren, selbst ergetzt? Hab' ich nicht—o was ist der Mensch, daß er über sich klagen darf! Ich will, lieber Freund, ich verspreche dir's, ich will mich bessern, will nicht mehr ein bißchen Übel, das uns das Schicksal vorlegt, wiederkäuen, wie ich's immer getan habe; ich will das Gegenwärtige genießen, und das Vergangene soll mir vergangen sein. Gewiß, du hast recht, Bester, der Schmerzen wären minder unter den Menschen, wenn sie nicht—Gott weiß, warum sie so gemacht sind!—mit so viel Emsigkeit der Einbildungskraft sich beschäftigten, die Erinnerungen des vergangenen Übels zurückzurufen, eher als eine gleichgültige Gegenwart zu ertragen.",
-        "translation": "May 4\n\nHow happy I am that I am gone! My dear friend, what a thing is the heart of man! To leave you, from whom I have been inseparable, whom I love so dearly, and yet to feel happy! I know you will forgive me. Have not other attachments been specially appointed by fate to torment a head like mine? Poor Leonora! and yet I was not to blame. Was it my fault, that, whilst the peculiar charms of her sister afforded me an agreeable entertainment, a passion for me was engendered in her feeble heart? And yet am I wholly blameless? Did I not encourage her emotions? Did I not feel charmed at those truly genuine expressions of nature, which, though but little mirthful in reality, so often amused us? Did I not—but oh! what is man, that he dares so to accuse himself? My dear friend I promise you I will improve; I will no longer, as has ever been my habit, continue to ruminate on every petty vexation which fortune may dispense; I will enjoy the present, and the past shall be for me the past. No doubt you are right, my best of friends, there would be far less suffering amongst mankind, if men—and God knows why they are so fashioned—did not employ their imaginations so assiduously in recalling the memory of past sorrow, instead of bearing their present lot with equanimity. Be kind enough to inform my mother that I shall attend to her business to the best of my ability, and shall give her the earliest information about it. I have seen my aunt, and find that she is very far from being the disagreeable person our friends allege her to be. She is a lively, cheerful woman, with the best of hearts. I explained to her my mother's wrongs with regard to that part of her portion which has been withheld from her. She told me the motives and reasons of her own conduct, and the terms on which she is willing to give up the whole, and to do more than we have asked. In short, I cannot write further upon this subject at present; only assure my mother that all will go on well. And I have again observed, my dear friend, in this trifling affair, that misunderstandings and neglect occasion more mischief in the world than even malice and wickedness. At all events, the two latter are of less frequent occurrence.",
-        "translator": "R.D. Boylan"
-    },
-    {
-        "title": "The Tempest",
-        "author": "William Shakespeare",
-        "opening": "MASTER.\nBoatswain!\n\nBOATSWAIN.\nHere, master: what cheer?\n\nMASTER.\nGood! Speak to the mariners: fall to ’t yarely, or we run ourselves aground: bestir, bestir."
-    },
-    {
-        "title": "Tlön, Uqbar, Orbis Tertius",
-        "author": "Jorge Luis Borges",
-        "opening": "Debo a la conjunción de un espejo y de una enciclopedia el descubrimiento de Uqbar."
-    },
-    {
-        "title": "Tom Jones",
-        "author": "Henry Fielding",
-        "opening": "An author ought to consider himself, not as a gentleman who gives a private or eleemosynary treat, but rather as one who keeps a public ordinary, at which all persons are welcome for their money."
-    },
-    {
-        "title": "Ulysses",
-        "author": "James Joyce",
-        "opening": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:\n\n—Introibo ad altare Dei.\n\nHalted, he peered down the dark winding stairs and called out coarsely:\n\n—Come up, Kinch! Come up, you fearful jesuit!\n\nSolemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding land and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like pale oak."
-    },
-    {
-        "title": "Walden",
-        "author": "Henry David Thoreau",
-        "opening": "When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again."
-    },
-    {
-        "title": "Wuthering Heights",
-        "author": "Emily Brontë",
-        "opening": "1801--I have just returned from a visit to my landlord--the solitary neighbour that I shall be troubled with."
-    }
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "opening": "Marley was dead: to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner. Scrooge signed it: and Scrooge’s name was good upon ’Change, for anything he chose to put his hand to. Old Marley was as dead as a door-nail."
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "opening": "You don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly—Tom’s Aunt Polly, she is—and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "opening": "Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему.",
+    "translation": "All happy families are alike, each unhappy family is unhappy in its own way."
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "opening": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only."
+  },
+  {
+    "title": "Beowulf",
+    "author": "(Anonymous)",
+    "opening": "Hwæt. We Gardena in geardagum,\nþeodcyninga, þrym gefrunon,\nhu ða æþelingas ellen fremedon.",
+    "translation": "Lo! the Spear-Danes’ glory through splendid achievements\nThe folk-kings’ former fame we have heard of,\nHow princes displayed then their prowess-in-battle.",
+    "translator": "Lesslie Hall"
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "opening": "Il y avait en Vestphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les moeurs les plus douces. Sa physionomie annonçait son âme. Il avait le jugement assez droit, avec l'esprit le plus simple; c'est, je crois, pour cette raison qu'on le nommait Candide. Les anciens domestiques de la maison soupçonnaient qu'il était fils de la soeur de monsieur le baron et d'un bon et honnête gentilhomme du voisinage, que cette demoiselle ne voulut jamais épouser parce qu'il n'avait pu prouver que soixante et onze quartiers, et que le reste de son arbre généalogique avait été perdu par l'injure du temps.",
+    "translation": "In a castle of Westphalia, belonging to the Baron of Thunder-ten-Tronckh, lived a youth, whom nature had endowed with the most gentle manners. His countenance was a true picture of his soul. He combined a true judgment with simplicity of spirit, which was the reason, I apprehend, of his being called Candide. The old servants of the family suspected him to have been the son of the Baron's sister, by a good, honest gentleman of the neighborhood, whom that young lady would never marry because he had been able to prove only seventy-one quarterings, the rest of his genealogical tree having been lost through the injuries of time.",
+    "translator": ""
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "opening": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino. Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso escriben; aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana. Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.",
+    "translation": "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income. The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman. They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana. This, however, is of but little importance to our tale; it will be enough not to stray a hair’s breadth from the truth in the telling of it.",
+    "translator": "John Ormsby"
+  },
+  {
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "opening": "Habe nun, ach! Philosophie,\nJuristerey und Medicin,\nUnd leider auch Theologie!\nDurchaus studirt, mit heißem Bemühn.\nDa steh’ ich nun, ich armer Thor!\nUnd bin so klug als wie zuvor;\nHeiße Magister, heiße Doctor gar,\nUnd ziehe schon an die zehen Jahr,\nHerauf, herab und quer und krumm,\nMeine Schüler an der Nase herum –\nUnd sehe, daß wir nichts wissen können!\nDas will mir schier das Herz verbrennen.\nZwar bin ich gescheidter als alle die Laffen,\nDoctoren, Magister, Schreiber und Pfaffen;\nMich plagen keine Scrupel noch Zweifel,\nFürchte mich weder vor Hölle noch Teufel –",
+    "translation": "I've studied now Philosophy\nAnd Jurisprudence, Medicine,—\nAnd even, alas! Theology,—\nFrom end to end, with labor keen;\nAnd here, poor fool! with all my lore\nI stand, no wiser than before:\nI'm Magister—yea, Doctor—hight,\nAnd straight or cross-wise, wrong or right,\nThese ten years long, with many woes,\nI've led my scholars by the nose,—\nAnd see, that nothing can be known!\nThat knowledge cuts me to the bone.\nI'm cleverer, true, than those fops of teachers,\nDoctors and Magisters, Scribes and Preachers;\nNeither scruples nor doubts come now to smite me,\nNor Hell nor Devil can longer affright me.",
+    "translator": "Bayard Taylor"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "opening": "My father's family name being Pirrip, and my christian name Phillip, my infant tongue could make of both names nothing longer or more explicit than Pip."
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "opening": "BARNARDO.\nWho’s there?\n\nFRANCISCO.\nNay, answer me. Stand and unfold yourself.\n\nBARNARDO.\nLong live the King!\n\nFRANCISCO.\nBarnardo?\n\nBARNARDO.\nHe.\n\nFRANCISCO.\nYou come most carefully upon your hour.\n\nBARNARDO.\n’Tis now struck twelve. Get thee to bed, Francisco.\n\nFRANCISCO.\nFor this relief much thanks. ’Tis bitter cold,\nAnd I am sick at heart.\n\nBARNARDO.\nHave you had quiet guard?\n\nFRANCISCO.\nNot a mouse stirring.\n\nBARNARDO.\nWell, good night.\nIf you do meet Horatio and Marcellus,\nThe rivals of my watch, bid them make haste."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "opening": "There was no possibility of taking a walk that day."
+  },
+  {
+    "title": "Journey to the West",
+    "author": "Cheng'en Wu",
+    "opening": "第一回 靈根育孕源流出　心性修持大道生\n\n詩曰：\n混沌未分天地亂，茫茫渺渺無人見。\n 自從盤古破鴻濛，開闢從茲清濁辨。\n 覆載群生仰至仁，發明萬物皆成善。\n 欲知造化會元功，須看西遊釋厄傳。",
+    "translation": "The Divine Root Conceives and the Spring Breaks Forth\nAs the Heart's Nature Is Cultivated, the Great Way Arises\nBefore Chaos was divided, Heaven and Earth were one;\nAll was a shapeless blur, and no men had appeared.\nOnce Pan Gu destroyed the Enormous Vagueness\nThe Separation of clear and impure began.\n\nLiving things have always tended towards humanity; From their creation all beings improve.\nIf you want to know about Creation and Time\nRead Difficulties Resolved on the Journey to the West.",
+    "translator": "Anthony C. Wu"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "opening": "En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne. C'était un vieillard d'environ soixante-quinze ans; il occupait le siège de Digne depuis 1806.\n\nQuoique ce détail ne touche en aucune manière au fond même de ce que nous avons à raconter, il n'est peut-être pas inutile, ne fût-ce que pour être exact en tout, d'indiquer ici les bruits et les propos qui avaient couru sur son compte au moment où il était arrivé dans le diocèse. Vrai ou faux, ce qu'on dit des hommes tient souvent autant de place dans leur vie et surtout dans leur destinée que ce qu'ils font. M. Myriel était fils d'un conseiller au parlement d'Aix; noblesse de robe. On contait de lui que son père, le réservant pour hériter de sa charge, l'avait marié de fort bonne heure, à dix-huit ou vingt ans, suivant un usage assez répandu dans les familles parlementaires. Charles Myriel, nonobstant ce mariage, avait, disait-on, beaucoup fait parler de lui. Il était bien fait de sa personne, quoique d'assez petite taille, élégant, gracieux, spirituel; toute la première partie de sa vie avait été donnée au monde et aux galanteries. La révolution survint, les événements se précipitèrent, les familles parlementaires décimées, chassées, traquées, se dispersèrent. M. Charles Myriel, dès les premiers jours de la révolution, émigra en Italie. Sa femme y mourut d'une maladie de poitrine dont elle était atteinte depuis longtemps. Ils n'avaient point d'enfants. Que se passa-t-il ensuite dans la destinée de M. Myriel? L'écroulement de l'ancienne société française, la chute de sa propre famille, les tragiques spectacles de 93, plus effrayants encore peut-être pour les émigrés qui les voyaient de loin avec le grossissement de l'épouvante, firent-ils germer en lui des idées de renoncement et de solitude? Fut-il, au milieu d'une de ces distractions et de ces affections qui occupaient sa vie, subitement atteint d'un de ces coups mystérieux et terribles qui viennent quelquefois renverser, en le frappant au cœur, l'homme que les catastrophes publiques n'ébranleraient pas en le frappant dans son existence et dans sa fortune? Nul n'aurait pu le dire; tout ce qu'on savait, c'est que, lorsqu'il revint d'Italie, il était prêtre.",
+    "translation": "In 1815, M. Charles-François-Bienvenu Myriel was Bishop of D—— He was an old man of about seventy-five years of age; he had occupied the see of D—— since 1806.\n\nAlthough this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese. True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do. M. Myriel was the son of a councillor of the Parliament of Aix; hence he belonged to the nobility of the bar. It was said that his father, destining him to be the heir of his own post, had married him at a very early age, eighteen or twenty, in accordance with a custom which is rather widely prevalent in parliamentary families. In spite of this marriage, however, it was said that Charles Myriel created a great deal of talk. He was well formed, though rather short in stature, elegant, graceful, intelligent; the whole of the first portion of his life had been devoted to the world and to gallantry.",
+    "translator": "Isabel F. Hapgood"
+  },
+  {
+    "title": "Leviathan",
+    "author": "Thomas Hobbes",
+    "opening": "Concerning the Thoughts of man, I will consider them first Singly, and afterwards in Trayne, or dependance upon one another. Singly, they are every one a Representation or Apparence, of some quality, or other Accident of a body without us; which is commonly called an Object. Which Object worketh on the Eyes, Eares, and other parts of mans body; and by diversity of working, produceth diversity of Apparences.\n\nThe Originall of them all, is that which we call Sense; (For there is no conception in a mans mind, which hath not at first, totally, or by parts, been begotten upon the organs of Sense.) The rest are derived from that originall.\n\nTo know the naturall cause of Sense, is not very necessary to the business now in hand; and I have els-where written of the same at large. Nevertheless, to fill each part of my present method, I will briefly deliver the same in this place.\n\nThe cause of Sense, is the Externall Body, or Object, which presseth the organ proper to each Sense, either immediatly, as in the Tast and Touch; or mediately, as in Seeing, Hearing, and Smelling: which pressure, by the mediation of Nerves, and other strings, and membranes of the body, continued inwards to the Brain, and Heart, causeth there a resistance, or counter-pressure, or endeavour of the heart, to deliver it self: which endeavour because Outward, seemeth to be some matter without. And this Seeming, or Fancy, is that which men call sense; and consisteth, as to the Eye, in a Light, or Colour Figured; To the Eare, in a Sound; To the Nostrill, in an Odour; To the Tongue and Palat, in a Savour; and to the rest of the body, in Heat, Cold, Hardnesse, Softnesse, and such other qualities, as we discern by Feeling. All which qualities called Sensible, are in the object that causeth them, but so many several motions of the matter, by which it presseth our organs diversly. Neither in us that are pressed, are they anything els, but divers motions; (for motion, produceth nothing but motion.) But their apparence to us is Fancy, the same waking, that dreaming. And as pressing, rubbing, or striking the Eye, makes us fancy a light; and pressing the Eare, produceth a dinne; so do the bodies also we see, or hear, produce the same by their strong, though unobserved action, For if those Colours, and Sounds, were in the Bodies, or Objects that cause them, they could not bee severed from them, as by glasses, and in Ecchoes by reflection, wee see they are; where we know the thing we see, is in one place; the apparence, in another. And though at some certain distance, the reall, and very object seem invested with the fancy it begets in us; Yet still the object is one thing, the image or fancy is another. So that Sense in all cases, is nothing els but originall fancy, caused (as I have said) by the pressure, that is, by the motion, of externall things upon our Eyes, Eares, and other organs thereunto ordained.\n\nBut the Philosophy-schooles, through all the Universities of Christendome, grounded upon certain Texts of Aristotle, teach another doctrine; and say, For the cause of Vision, that the thing seen, sendeth forth on every side a Visible Species(in English) a Visible Shew, Apparition, or Aspect, or a Being Seen; the receiving whereof into the Eye, is Seeing. And for the cause of Hearing, that the thing heard, sendeth forth an Audible Species, that is, an Audible Aspect, or Audible Being Seen; which entring at the Eare, maketh Hearing. Nay for the cause of Understanding also, they say the thing Understood sendeth forth Intelligible Species, that is, an Intelligible Being Seen; which comming into the Understanding, makes us Understand. I say not this, as disapproving the use of Universities: but because I am to speak hereafter of their office in a Common-wealth, I must let you see on all occasions by the way, what things would be amended in them; amongst which the frequency of insignificant Speech is one.",
+    "type": "Philosophy"
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "opening": "FIRST WITCH.\nWhen shall we three meet again?\nIn thunder, lightning, or in rain?\n\nSECOND WITCH.\nWhen the hurlyburly’s done,\nWhen the battle’s lost and won.\n\nTHIRD WITCH.\nThat will be ere the set of sun.\n\nFIRST WITCH.\nWhere the place?\n\nSECOND WITCH.\nUpon the heath.\n\nTHIRD WITCH.\nThere to meet with Macbeth.\n\nFIRST WITCH.\nI come, Graymalkin!\n\nSECOND WITCH.\nPaddock calls.\n\nTHIRD WITCH.\nAnon.\n\nALL.\nFair is foul, and foul is fair:\nHover through the fog and filthy air."
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "opening": "Nous étions à l'Étude, quand le Proviseur entra, suivi d'un nouveau habillé en bourgeois et d'un garçon de classe qui portait un grand pupitre. Ceux qui dormaient se réveillèrent, et chacun se leva comme surpris dans son travail.\n\nLe Proviseur nous fit signe de nous rasseoir; puis, se tournant vers le maître d'études:\n\n— Monsieur Roger, lui dit-il à demi-voix, voici un élève que je vous recommande, il entre en cinquième. Si son travail et sa conduite sont méritoires, il passera dans les grands, où l'appelle son âge.\n\nResté dans l'angle, derrière la porte, si bien qu'on l'apercevait à peine, le nouveau était un gars de la campagne, d'une quinzaine d'années environ, et plus haut de taille qu'aucun de nous tous. Il avait les cheveux coupés droit sur le front, comme un chantre de village, l'air raisonnable et fort embarrassé. Quoiqu'il ne fût pas large des épaules, son habit-veste de drap vert à boutons noirs devait le gêner aux entournures et laissait voir, par la fente des parements, des poignets rouges habitués à être nus. Ses jambes, en bas bleus, sortaient d'un pantalon jaunâtre très tiré par les bretelles. Il était chaussé de souliers forts, mal cirés, garnis de clous.",
+    "translation": "We were in class when the head-master came in, followed by a “new fellow,” not wearing the school uniform, and a school servant carrying a large desk. Those who had been asleep woke up, and every one rose as if just surprised at his work.\n\nThe head-master made a sign to us to sit down. Then, turning to the class-master, he said to him in a low voice—\n\n“Monsieur Roger, here is a pupil whom I recommend to your care; he’ll be in the second. If his work and conduct are satisfactory, he will go into one of the upper classes, as becomes his age.”\n\nThe “new fellow,” standing in the corner behind the door so that he could hardly be seen, was a country lad of about fifteen, and taller than any of us. His hair was cut square on his forehead like a village chorister’s; he looked reliable, but very ill at ease. Although he was not broad-shouldered, his short school jacket of green cloth with black buttons must have been tight about the arm-holes, and showed at the opening of the cuffs red wrists accustomed to being bare. His legs, in blue stockings, looked out from beneath yellow trousers, drawn tight by braces, He wore stout, ill-cleaned, hob-nailed boots.",
+    "translator": "Eleanor Marx-Aveling"
+  },
+  {
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "opening": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt. Er lag auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig hob, seinen gewölbten, braunen, von bogenförmigen Versteifungen geteilten Bauch, auf dessen Höhe sich die Bettdecke, zum gänzlichen Niedergleiten bereit, kaum noch erhalten konnte. Seine vielen, im Vergleich zu seinem sonstigen Umfang kläglich dünnen Beine flimmerten ihm hilflos vor den Augen.",
+    "translation": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.",
+    "translator": "David Wyllie"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "opening": "Call me Ishmael."
+  },
+  {
+    "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+    "author": "Frederick Douglass",
+    "opening": "I was born in Tuckahoe, near Hillsborough, and about twelve miles from Easton, in Talbot county, Maryland. I have no accurate knowledge of my age, never having seen any authentic record containing it. By far the larger part of the slaves know as little of their ages as horses know of theirs, and it is the wish of most masters within my knowledge to keep their slaves thus ignorant. I do not remember to have ever met a slave who could tell of his birthday. They seldom come nearer to it than planting-time, harvest-time, cherry-time, spring-time, or fall-time. A want of information concerning my own was a source of unhappiness to me even during childhood. The white children could tell their ages. I could not tell why I ought to be deprived of the same privilege. I was not allowed to make any inquiries of my master concerning it. He deemed all such inquiries on the part of a slave improper and impertinent, and evidence of a restless spirit. The nearest estimate I can give makes me now between twenty-seven and twenty-eight years of age. I come to this, from hearing my master say, some time during 1835, I was about seventeen years old."
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "opening": "This First Book proposes, first in brief, the whole subject--Man's disobedience, and the loss thereupon of Paradise, wherein he was placed: then touches the prime cause of his fall--the Serpent, or rather Satan in the Serpent; who, revolting from God, and drawing to his side many legions of Angeles, was, by the command of God, driven out of Heaven, with all his crew, into the great Deep."
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
+    "opening": "All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end."
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "opening": "Sir Walter Elliot, of Kellynch-hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limiting remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs, changed naturally into pity and contempt, as he turned over the almost endless creations of the last century - and there, if every other leaf were powerless, he could read his own history with an interest which never failed - this was the page at which the favourite volume always opened:\n\nELLIOT of KELLYNCH-HALL."
+  },
+  {
+    "title": "Pierre Menard, Autor del Quijote",
+    "author": "Jorge Luis Borges",
+    "opening": "La obra visible que ha dejado este novelista es de fácil y breve enumeración."
+  },
+  {
+    "title": "Pride & Prejudice",
+    "author": "Jane Austen",
+    "opening": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "opening": "I was born in the year 1632, in the city of York, of a good family, though not of that country, my father being a foreigner of Bremen, who settled first at Hull."
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "opening": "SAMPSON.\nGregory, on my word, we’ll not carry coals.\n\nGREGORY.\nNo, for then we should be colliers.\n\nSAMPSON.\nI mean, if we be in choler, we’ll draw.\n\nGREGORY.\nAy, while you live, draw your neck out o’ the collar.\n\nSAMPSON.\nI strike quickly, being moved.\n\nGREGORY.\nBut thou art not quickly moved to strike.\n\nSAMPSON.\nA dog of the house of Montague moves me.\n\nGREGORY.\nTo move is to stir; and to be valiant is to stand: therefore, if thou art moved, thou runn’st away.\n\nSAMPSON.\nA dog of that house shall move me to stand.\nI will take the wall of any man or maid of Montague’s.\n\nGREGORY.\nThat shows thee a weak slave, for the weakest goes to the wall.\n\nSAMPSON.\nTrue, and therefore women, being the weaker vessels, are ever thrust to the wall: therefore I will push Montague’s men from the wall, and thrust his maids to the wall.\n\nGREGORY.\nThe quarrel is between our masters and us their men.\n\nSAMPSON.\n’Tis all one, I will show myself a tyrant: when I have fought with the men I will be civil with the maids, I will cut off their heads.\n\nGREGORY.\nThe heads of the maids?\n\nSAMPSON.\nAy, the heads of the maids, or their maidenheads; take it in what sense thou wilt.\n\nGREGORY.\nThey must take it in sense that feel it.\n\nSAMPSON.\nMe they shall feel while I am able to stand: and ’tis known I am a pretty piece of flesh.\n\nGREGORY.\n’Tis well thou art not fish; if thou hadst, thou hadst been poor John. Draw thy tool; here comes of the house of Montagues."
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "opening": "The family of Dashwood had been long settled in Sussex."
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "opening": "Im Schatten des Hauses, in der Sonne des Flußufers bei den Booten, im Schatten des Salwaldes, im Schatten des Feigenbaumes wuchs Siddhartha auf, der schöne Sohn des Brahmanen, der junge Falke, zusammen mit Govinda, seinem Freunde, dem Brahmanensohn. Sonne bräunte seine lichten Schultern am Flußufer, beim Bade, bei den heiligen Waschungen, bei den heiligen Opfern. Schatten floß in seine schwarzen Augen im Mangohain, bei den Knabenspielen, beim Gesang der Mutter, bei den heiligen Opfern, bei den Lehren seines Vaters, des Gelehrten, beim Gespräch der Weisen. Lange schon nahm Siddhartha am Gespräch der Weisen teil, übte sich mit Govinda im Redekampf, übte sich mit Govinda in der Kunst der Betrachtung, im Dienst der Versenkung. Schon verstand er, lautlos das Om zu sprechen, das Wort der Worte, es lautlos in sich hinein zu sprechen mit dem Einhauch, es lautlos aus sich heraus zu sprechen mit dem Aushauch, mit gesammelter Seele, die Stirn umgeben vom Glanz des klardenkenden Geistes. Schon verstand er, im Innern seines Wesens Atman zu wissen, unzerstörbar, eins mit dem Weltall.",
+    "translation": "In the shade of the house, in the sunshine of the riverbank near the boats, in the shade of the Sal-wood forest, in the shade of the fig tree is where Siddhartha grew up, the handsome son of the Brahman, the young falcon, together with his friend Govinda, son of a Brahman. The sun tanned his light shoulders by the banks of the river when bathing, performing the sacred ablutions, the sacred offerings. In the mango grove, shade poured into his black eyes, when playing as a boy, when his mother sang, when the sacred offerings were made, when his father, the scholar, taught him, when the wise men talked. For a long time, Siddhartha had been partaking in the discussions of the wise men, practising debate with Govinda, practising with Govinda the art of reflection, the service of meditation. He already knew how to speak the Om silently, the word of words, to speak it silently into himself while inhaling, to speak it silently out of himself while exhaling, with all the concentration of his soul, the forehead surrounded by the glow of the clear-thinking spirit. He already knew to feel Atman in the depths of his being, indestructible, one with the universe.",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoyevsky",
+    "opening": "Алексей Федорович Карамазов был третьим сыном помещика нашего уезда Федора Павловича Карамазова, столь известного в свое время (да и теперь еще у нас припоминаемого) по трагической и темной кончине своей, приключившейся ровно тринадцать лет назад и о которой сообщу в своем месте. Теперь же скажу об этом «помещике» (как его у нас называли, хотя он всю жизнь совсем почти не жил в своем поместье) лишь то, что это был странный тип, довольно часто, однако, встречающийся, именно тип человека не только дрянного и развратного, но вместе с тем и бестолкового, — но из таких, однако, бестолковых, которые умеют отлично обделывать свои имущественные делишки, и только, кажется, одни эти. Федор Павлович, например, начал почти что ни с чем, помещик он был самый маленький, бегал обедать по чужим столам, норовил в приживальщики, а между тем в момент кончины его у него оказалось до ста тысяч рублей чистыми деньгами. И в то же время он все-таки всю жизнь свою продолжал быть одним из бестолковейших сумасбродов по всему нашему уезду. Повторю еще: тут не глупость; большинство этих сумасбродов довольно умно и хитро, — а именно бестолковость, да еще какая-то особенная, национальная.",
+    "translation": "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov, a land owner well known in our district in his own day, and still remembered among us owing to his gloomy and tragic death, which happened thirteen years ago, and which I shall describe in its proper place. For the present I will only say that this “landowner”—for so we used to call him, although he hardly spent a day of his life on his own estate—was a strange type, yet one pretty frequently to be met with, a type abject and vicious and at the same time senseless. But he was one of those senseless persons who are very well capable of looking after their worldly affairs, and, apparently, after nothing else. Fyodor Pavlovitch, for instance, began with next to nothing; his estate was of the smallest; he ran to dine at other men's tables, and fastened on them as a toady, yet at his death it appeared that he had a hundred thousand roubles in hard cash. At the same time, he was all his life one of the most senseless, fantastical fellows in the whole district. I repeat, it was not stupidity—the majority of these fantastical fellows are shrewd and intelligent enough—but just senselessness, and a peculiar national form of it.",
+    "translator": "Constance Garnett"
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "opening": "“Old longings nomadic leap,\nChafing at custom’s chain;\nAgain from its brumal sleep\nWakens the ferine strain.”\n\nBuck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland. These men wanted dogs, and the dogs they wanted were heavy dogs, with strong muscles by which to toil, and furry coats to protect them from the frost."
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "opening": "Whan that Aprille with his shoures soote,\nThe droghte of March hath perced to the roote,\nAnd bathed every veyne in swich licóur\nOf which vertú engendred is the flour;\nWhan Zephirus eek with his swete breeth\nInspired hath in every holt and heeth\nThe tendre croppes, and the yonge sonne\nHath in the Ram his halfe cours y-ronne,\nAnd smale foweles maken melodye,\nThat slepen al the nyght with open ye,\nSo priketh hem Natúre in hir corages,\nThanne longen folk to goon on pilgrimages,\nAnd palmeres for to seken straunge strondes,\nTo ferne halwes, kowthe in sondry londes;\nAnd specially, from every shires ende\nOf Engelond, to Caunterbury they wende,\nThe hooly blisful martir for to seke,\nThat hem hath holpen whan that they were seeke.",
+    "type": "Verse"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "opening": "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.\n\n“Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "opening": "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε, πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι, Διὸς δ᾽ ἐτελείετο βουλή, ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς."
+  },
+  {
+    "title": "The Joke",
+    "author": "Milan Kundera",
+    "opening": "Tak jsem se po mnoha letech octl zase najednou doma. Stál jsem na hlavním náměstí (po němž jsem nesčetněkrát prošel jako dítě, jako chlapec i jako mladík) a necítil jsem žádné dojetí; naopak pomyslil jsem, že to ploché náměstí, nad jehož střechami ční radniční věž (podobná vojáku se starodávnou helmou), vypadá jako velké kasárenské cvičiště a že vojenská minulost tohoto jihomoravského města, tvořícího kdysi val proti vpádům Maďarů i Turků, vtiskla do jeho tváře rys neodvolatelné ohavnosti.",
+    "translation": "So here I was, home again after all those years. Standing in the main square (which I had crossed countless times as a child, as a boy, as a young man), I felt no emotion whatsover; all I could think was that the flat space, with the spire of the town hall (like a solider in an ancient helmet) rising above the rooftops, looked like a huge parade ground and that the military past of the Moravian town, once a bastion against Magyar and Turk invaders, had engraved an irrevocable ugliness on its face.",
+    "originalLanguage": "Czech",
+    "source": "http://files.sposs.webnode.cz/200000426-442284cd7f/Kundera%20Milan%20-%20%C5%BDert.pdf"
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "author": "John Bunyan",
+    "opening": "As I walked through the wilderness of this world, I lighted on a certain place where was a den, and laid me down in that place to sleep; and as I slept, I dreamed a dream."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "opening": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.\n\nFrom the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion. The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive. The dim roar of London was like the bourdon note of a distant organ."
+  },
+  {
+    "title": "The Prince",
+    "author": "Nicolo Machiavelli",
+    "opening": "Tutti gli stati, tutti e' dominii che hanno avuto e hanno imperio sopra li uomini, sono stati e sono o republiche o principati. E' principati sono, o ereditarii, de' quali el sangue del loro signore ne sia suto lungo tempo principe, o e' sono nuovi. E' nuovi, o sono nuovi tutti, come fu Milano a Francesco Sforza, o sono come membri aggiunti allo stato ereditario del principe che li acquista, come è el regno di Napoli al re di Spagna. Sono questi dominii così acquistati, o consueti a vivere sotto un principe, o usi ad essere liberi; e acquistonsi o con le armi d'altri o con le proprie, o per fortuna o per virtù.",
+    "translation": "All states, all powers, that have held and hold rule over men have been and are either republics or principalities.\n\nPrincipalities are either hereditary, in which the family has been long established; or they are new.\n\nThe new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the prince who has acquired them, as was the kingdom of Naples to that of the King of Spain.\n\nSuch dominions thus acquired are either accustomed to live under a prince, or to live in freedom; and are acquired either by the arms of the prince himself, or of others, or else by fortune or by ability.",
+    "translator": "W. K. Marriott"
+  },
+  {
+    "title": "The Rime of the Ancient Mariner",
+    "author": "Samuel Taylor Coleridge",
+    "opening": "It is an ancient Mariner, And he stoppeth one of three. By thy long grey beard and glittering eye, Now wherefore stopp'st thou me?"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "opening": "A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes."
+  },
+  {
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "opening": "Am 4. Mai 1771\n\nWie froh bin ich, daß ich weg bin! Bester Freund, was ist das Herz des Menschen! Dich zu verlassen, den ich so liebe, von dem ich unzertrennlich war, und froh zu sein! Ich weiß, du verzeihst mir's. Waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal, um ein Herz wie das meine zu ängstigen? Die arme Leonore! Und doch war ich unschuldig. Konnt' ich dafür, daß, während die eigensinnigen Reize ihrer Schwester mir eine angenehme Unterhaltung verschafften, daß eine Leidenschaft in dem armen Herzen sich bildete? Und doch—bin ich ganz unschuldig? Hab' ich nicht ihre Empfindungen genährt? Hab' ich mich nicht an den ganz wahren Ausdrücken der Natur, die uns so oft zu lachen machten, so wenig lächerlich sie waren, selbst ergetzt? Hab' ich nicht—o was ist der Mensch, daß er über sich klagen darf! Ich will, lieber Freund, ich verspreche dir's, ich will mich bessern, will nicht mehr ein bißchen Übel, das uns das Schicksal vorlegt, wiederkäuen, wie ich's immer getan habe; ich will das Gegenwärtige genießen, und das Vergangene soll mir vergangen sein. Gewiß, du hast recht, Bester, der Schmerzen wären minder unter den Menschen, wenn sie nicht—Gott weiß, warum sie so gemacht sind!—mit so viel Emsigkeit der Einbildungskraft sich beschäftigten, die Erinnerungen des vergangenen Übels zurückzurufen, eher als eine gleichgültige Gegenwart zu ertragen.",
+    "translation": "May 4\n\nHow happy I am that I am gone! My dear friend, what a thing is the heart of man! To leave you, from whom I have been inseparable, whom I love so dearly, and yet to feel happy! I know you will forgive me. Have not other attachments been specially appointed by fate to torment a head like mine? Poor Leonora! and yet I was not to blame. Was it my fault, that, whilst the peculiar charms of her sister afforded me an agreeable entertainment, a passion for me was engendered in her feeble heart? And yet am I wholly blameless? Did I not encourage her emotions? Did I not feel charmed at those truly genuine expressions of nature, which, though but little mirthful in reality, so often amused us? Did I not—but oh! what is man, that he dares so to accuse himself? My dear friend I promise you I will improve; I will no longer, as has ever been my habit, continue to ruminate on every petty vexation which fortune may dispense; I will enjoy the present, and the past shall be for me the past. No doubt you are right, my best of friends, there would be far less suffering amongst mankind, if men—and God knows why they are so fashioned—did not employ their imaginations so assiduously in recalling the memory of past sorrow, instead of bearing their present lot with equanimity. Be kind enough to inform my mother that I shall attend to her business to the best of my ability, and shall give her the earliest information about it. I have seen my aunt, and find that she is very far from being the disagreeable person our friends allege her to be. She is a lively, cheerful woman, with the best of hearts. I explained to her my mother's wrongs with regard to that part of her portion which has been withheld from her. She told me the motives and reasons of her own conduct, and the terms on which she is willing to give up the whole, and to do more than we have asked. In short, I cannot write further upon this subject at present; only assure my mother that all will go on well. And I have again observed, my dear friend, in this trifling affair, that misunderstandings and neglect occasion more mischief in the world than even malice and wickedness. At all events, the two latter are of less frequent occurrence.",
+    "translator": "R.D. Boylan"
+  },
+  {
+    "title": "The Tempest",
+    "author": "William Shakespeare",
+    "opening": "MASTER.\nBoatswain!\n\nBOATSWAIN.\nHere, master: what cheer?\n\nMASTER.\nGood! Speak to the mariners: fall to ’t yarely, or we run ourselves aground: bestir, bestir."
+  },
+  {
+    "title": "Tlön, Uqbar, Orbis Tertius",
+    "author": "Jorge Luis Borges",
+    "opening": "Debo a la conjunción de un espejo y de una enciclopedia el descubrimiento de Uqbar."
+  },
+  {
+    "title": "Tom Jones",
+    "author": "Henry Fielding",
+    "opening": "An author ought to consider himself, not as a gentleman who gives a private or eleemosynary treat, but rather as one who keeps a public ordinary, at which all persons are welcome for their money."
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "opening": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned:\n\n—Introibo ad altare Dei.\n\nHalted, he peered down the dark winding stairs and called out coarsely:\n\n—Come up, Kinch! Come up, you fearful jesuit!\n\nSolemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding land and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like pale oak."
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "opening": "When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "opening": "1801--I have just returned from a visit to my landlord--the solitary neighbour that I shall be troubled with."
+  }
 ]
