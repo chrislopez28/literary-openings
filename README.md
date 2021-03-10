@@ -1,6 +1,6 @@
 # Literary Openings
 
-Play Here: https://github.com/chrislopez28/literary-openings
+Click Here: https://chrislopez28.github.io/literary-openings/
 
 ## Overview
 
