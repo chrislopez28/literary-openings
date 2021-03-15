@@ -105,7 +105,11 @@ function App({ openings }) {
         </p>
       </div>
 
-      {/* <BookSelector onChange={handleSelector} defaultValue={randomNum} openings={openings} /> */}
+      <BookSelector
+        onChange={handleSelector}
+        defaultValue={randomNum}
+        openings={openings}
+      />
 
       <Quote work={work}>{work.opening}</Quote>
 
