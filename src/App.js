@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { matchSorter } from "match-sorter";
-import { useThrottle } from "react-use";
+import { useSetState, useThrottle } from "react-use";
 
 import {
   Combobox,
@@ -19,19 +19,20 @@ import BookSelector from "./components/BookSelector/BookSelector";
 import Button from "./components/UI/Button/Button";
 import Quote from "./components/Quote/Quote";
 
-function App({ openings }) {
+function App() {
   function refreshPage() {
     window.location.reload(false);
     window.scrollTo(0, 0);
   }
 
-  const [randomNum, setRandomNum] = useState(
-    Math.floor(Math.random() * openings.length)
-  );
+  // const [randomNum, setRandomNum] = useState(
+  //   Math.floor(Math.random() * openings.length)
+  // );
   const [choice, setChoice] = useState("");
   const [searchTerm, setSearchTerm] = useState("");
-  const [work, setWork] = useState(openings[randomNum]);
+  const [work, setWork] = useState({});
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [books, setBooks] = useState([]);
 
   const results = useBookMatch(searchTerm);
 
@@ -40,24 +41,37 @@ function App({ openings }) {
     setSearchTerm(updatedTerm);
   };
 
+  useEffect(() => {
+    fetch("http://localhost:8000/books/list")
+      .then((res) => res.json())
+      .then((data) => setBooks(data))
+      .catch((err) => console.log(err));
+  }, []);
+
+  useEffect(() => {
+    fetch("http://localhost:8000/books/random")
+      .then((res) => res.json())
+      .then((data) => setWork(data));
+  }, [isSubmitted]);
+
   function useBookMatch(searchTerm) {
     const throttledTerm = useThrottle(searchTerm, 100);
     return React.useMemo(
       () =>
         searchTerm.trim() === ""
           ? null
-          : matchSorter(openings, searchTerm, {
-              keys: [(opening) => `${opening.title}, ${opening.author}`],
+          : matchSorter(books, searchTerm, {
+              keys: [(book) => `${book.title}, ${book.author}`],
             }),
       [throttledTerm]
     );
   }
 
-  const handleSelector = (event) => {
-    let newRandomNum = event.target.value;
-    setRandomNum(newRandomNum);
-    setWork(openings[newRandomNum]);
-  };
+  // const handleSelector = (event) => {
+  //   let newRandomNum = event.target.value;
+  //   setRandomNum(newRandomNum);
+  //   setWork(openings[newRandomNum]);
+  // };
 
   const submitHandler = () => {
     setIsSubmitted(true);
@@ -105,11 +119,7 @@ function App({ openings }) {
         </p>
       </div>
 
-      <BookSelector
-        onChange={handleSelector}
-        defaultValue={randomNum}
-        openings={openings}
-      />
+      {/* <BookSelector onChange={handleSelector} defaultValue={7} books={books} /> */}
 
       <Quote work={work}>{work.opening}</Quote>
 

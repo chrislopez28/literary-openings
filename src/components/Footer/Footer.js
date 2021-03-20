@@ -1,14 +1,25 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 import styles from "./Footer.module.css";
 
-export default function Footer(props) {
+export default function Footer() {
+  const [numBooks, setNumBooks] = useState(0);
+
+  useEffect(() => {
+    fetch("http://localhost:8000/books/count")
+      .then((res) => res.json())
+      .then((data) => {
+        setNumBooks(data["numBooks"]);
+      })
+      .catch((err) => console.log(err));
+  });
+
   return (
     <div className={styles.Footer}>
       <p style={{ textAlign: "center" }}>
         <div>
           <p>
-            <p>There are {props.numBooks} literary works in the library.</p>
+            <p>There are {numBooks} literary works in the library.</p>
           </p>
           <a
             className={styles.Link}

@@ -10,7 +10,7 @@ let openings = require("./books.json");
 ReactDOM.render(
   <React.StrictMode>
     <App openings={openings} />
-    <Footer numBooks={openings.length} />
+    <Footer />
   </React.StrictMode>,
   document.getElementById("root")
 );
