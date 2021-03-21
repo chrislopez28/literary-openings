@@ -19,7 +19,7 @@ export default function Footer() {
       <p style={{ textAlign: "center" }}>
         <div>
           <p>
-            <p>There are {numBooks} literary works in the library.</p>
+            <p>There are {numBooks} books in the library.</p>
           </p>
           <a
             className={styles.Link}

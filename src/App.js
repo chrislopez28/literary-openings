@@ -21,20 +21,24 @@ import Quote from "./components/Quote/Quote";
 
 function App() {
   function refreshPage() {
-    window.location.reload(false);
+    if (choice === `${book.title} by ${book.author}`) {
+      setCorrectCount(correctCount + 1);
+    }
+    setChoice("");
+    setGameCount(gameCount + 1);
+    setSearchTerm("");
+    setBook(null);
+    setIsSubmitted(false);
     window.scrollTo(0, 0);
   }
 
-  // const [randomNum, setRandomNum] = useState(
-  //   Math.floor(Math.random() * openings.length)
-  // );
+  const [book, setBook] = useState(null);
+  const [books, setBooks] = useState([]);
   const [choice, setChoice] = useState("");
   const [searchTerm, setSearchTerm] = useState("");
-  const [work, setWork] = useState({});
+  const [gameCount, setGameCount] = useState(1);
+  const [correctCount, setCorrectCount] = useState(0);
   const [isSubmitted, setIsSubmitted] = useState(false);
-  const [books, setBooks] = useState([]);
-
-  const results = useBookMatch(searchTerm);
 
   const handleChange = (event) => {
     const updatedTerm = event.target.value;
@@ -51,8 +55,8 @@ function App() {
   useEffect(() => {
     fetch("http://localhost:8000/books/random")
       .then((res) => res.json())
-      .then((data) => setWork(data));
-  }, [isSubmitted]);
+      .then((data) => setBook(data));
+  }, [gameCount]);
 
   function useBookMatch(searchTerm) {
     const throttledTerm = useThrottle(searchTerm, 100);
@@ -79,12 +83,14 @@ function App() {
     window.scrollTo(0, 0);
   };
 
+  const results = useBookMatch(searchTerm);
+
   let answer = null;
   if (isSubmitted) {
     answer = (
       <Answer
-        work={work}
-        isCorrect={choice === `${work.title} by ${work.author}`}
+        work={book}
+        isCorrect={choice === `${book.title} by ${book.author}`}
         refreshPage={refreshPage}
       />
     );
@@ -93,7 +99,7 @@ function App() {
   function AnswerPage() {
     return (
       <div className={styles.App}>
-        <a href="" style={{ textDecoration: "none", color: "black" }}>
+        <a href="/" style={{ textDecoration: "none", color: "black" }}>
           <h1>Literary Openings</h1>
         </a>
         <div id="answer">{answer}</div>
@@ -103,7 +109,7 @@ function App() {
 
   return !isSubmitted ? (
     <div className={styles.App}>
-      <a href="" style={{ textDecoration: "none", color: "black" }}>
+      <a href="/" style={{ textDecoration: "none", color: "black" }}>
         <h1>Literary Openings</h1>
       </a>
       <div className={styles.Center}>
@@ -118,10 +124,15 @@ function App() {
           . Can you name where it's from?
         </p>
       </div>
+      <hr />
 
       {/* <BookSelector onChange={handleSelector} defaultValue={7} books={books} /> */}
 
-      <Quote work={work}>{work.opening}</Quote>
+      {book ? (
+        <Quote work={book}>{book.opening}</Quote>
+      ) : (
+        <div className={styles.loader}>...Loading</div>
+      )}
 
       <br />
       <hr />
